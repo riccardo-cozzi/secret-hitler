@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/secret-hitler/static/css/main.073c9b0a.css",
-    "main.js": "/secret-hitler/static/js/main.511cb8bc.js",
+    "main.js": "/secret-hitler/static/js/main.1c637bb5.js",
     "static/js/787.28cb0dcd.chunk.js": "/secret-hitler/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/secret-hitler/index.html",
     "main.073c9b0a.css.map": "/secret-hitler/static/css/main.073c9b0a.css.map",
-    "main.511cb8bc.js.map": "/secret-hitler/static/js/main.511cb8bc.js.map",
+    "main.1c637bb5.js.map": "/secret-hitler/static/js/main.1c637bb5.js.map",
     "787.28cb0dcd.chunk.js.map": "/secret-hitler/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.511cb8bc.js"
+    "static/js/main.1c637bb5.js"
   ]
 }
